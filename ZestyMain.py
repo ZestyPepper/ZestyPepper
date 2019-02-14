@@ -14,8 +14,6 @@ BOT_PREFIX = ("~", "Z", "<")
 
 # Variables #
 
-BOT_TOKEN = 'NTQ1NDMzODU0NTQ3MzI5MDI1.D0Zqxw.sAw1wT8gSreajyCQwyQ0y8PF-00'
-
 # Code #
 
 client = discord.Client()
